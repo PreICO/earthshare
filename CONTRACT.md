@@ -96,3 +96,4 @@ SKGxdnAAe2DI+Os+N/2FvsMkfPqewcyosHRQXAP4prm2gTIBPxTuNUxLANQF8gcZ
 3QmBPTHJN1kc4kZecx/L
 =dIrx
 -----END PGP SIGNATURE-----
+Place of this documents is https://github.com/PreICO/earthshare/contract.md with public at golos.io and steemit.com
